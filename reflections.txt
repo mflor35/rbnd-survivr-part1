@@ -1,5 +1,24 @@
 How does your gem take advantage of Ruby’s metaprogramming capabilities?
-And, the following reflections:
+
+    My gem uses the class_eval to generate each of the color methods.
+    I also used the send object method to call each of the methods for to generate the
+    output in sample_colors.
+
 How long did you spend working on this project?
+
+    I spent about 8 - 10 hours working on this project. I had to review the lesson
+    multiple times in order to understand what was going on.
+
 What was the most rewarding challenge you conquered?
+
+    The most rewarding challenge was when I found out how to use the send method
+    to call each of the color methods for the sample_colors method in my string.
+    It took me several hours to find a way of calling all my color methods using
+    a loop instead of one by one.
+
 Where do you still have room to grow?
+
+    I need to learn how to ask better questions. The reason why it took me so long
+    to find out I could use the send method was because I understood what I wanted
+    to do, but I did not know how to ask or communicate my problem.
+    
