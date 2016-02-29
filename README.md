@@ -16,6 +16,8 @@ Current colors includes:
 ## Usage
 To change the color of a given string simply do
 ```ruby
+require 'colorizr'
+
 puts "This whole string is red".red
 ```
 
