@@ -1,0 +1,5 @@
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+And, the following reflections:
+How long did you spend working on this project?
+What was the most rewarding challenge you conquered?
+Where do you still have room to grow?
